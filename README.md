@@ -1,6 +1,6 @@
-# java-maven-starter-project
+# cs2511-20t3-project
 
-Here is a starter project for the ArcGIS Runtime SDK for Java with Maven.
+Here is a starter code for cs2511-20t3-project using the ArcGIS Runtime SDK for Java with Maven.
 
 The project includes the Maven wrapper, so there is no need to install Maven to run the app.
 
@@ -9,6 +9,10 @@ The app launches a window displaying a map.
 ![screenshot](screenshot.png)
 
 ## Instructions
+
+Below instructions are forked from [Esri/java-maven-starter-project](https://github.com/Esri/java-maven-starter-project).
+
+I have tested with Eclipse, not sure about IntelliJ, vscode or cli
 
 ### IntelliJ IDEA
 
